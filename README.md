@@ -10,6 +10,7 @@
 
 <p>
   <a href="https://github.com/KenZuke17"><img src="https://img.shields.io/badge/GitHub-KenZuke17-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/kavindugunasekara003/"><img src="https://img.shields.io/badge/LinkedIn-Kavindu%20Gunasekara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:buddhika2003gunasekara@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -224,7 +225,7 @@ I'm interested in connecting with developers, DevOps engineers and cloud profess
 
 📧 **Email:** buddhika2003gunasekara@gmail.com  
 💻 **GitHub:** [github.com/KenZuke17](https://github.com/KenZuke17)  
-💼 **LinkedIn:** Add your LinkedIn profile link here
+💼 **LinkedIn:** [linkedin.com/in/kavindugunasekara003](https://www.linkedin.com/in/kavindugunasekara003/)
 
 ---
 
